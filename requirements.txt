@@ -1,0 +1,10 @@
+gitpython==2.1.11
+pydot==1.4.1
+tabulate==0.8.3
+qgrid==1.1.1
+ipywidgets==7.4.2
+bqplot==0.11.5
+xlsxwriter==1.1.1
+pretrainedmodels==0.7.4
+gym==0.12.5
+torchnet==0.0.4
