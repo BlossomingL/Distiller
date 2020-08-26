@@ -1,4 +1,4 @@
-# 对distiller源码改动说明  
+# Distiller源码改动说明  
 * distiller/apputils下的data_loaders.py文件classification_get_input_shape函数中dataset与yaml文件中dataset参数的值一样，例如：如果输入网络图像大小为80x80那么yaml文件中的dataset参数也就是80x80，如果需要添加其它类型的输入，那么就要更改此代码。
 * distiller/policy.py下添加了fpgm的参数选项
 * distiller/thinning.py下添加了两个个功能：
